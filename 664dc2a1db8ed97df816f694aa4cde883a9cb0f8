@@ -1,0 +1,1 @@
+{"jobID":"074dc442-c659-49c3-94b6-5847a74dacf8","spec":{"type":"policy","cause":{"Message":"","User":""},"spec":{"myownmanifest:deployment/hello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
